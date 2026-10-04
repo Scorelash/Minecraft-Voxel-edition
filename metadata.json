@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Voxel Edition",
+  "description": "Birinci şahıs 3D hayatta kalma ve blok inşa oyunu; madencilik, zanaat sistemi ve ekranın sağ tarafında joystick, çömelme, zıplama ve el kontrolleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
